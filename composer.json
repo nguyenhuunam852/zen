@@ -1,0 +1,9 @@
+{
+    "config": {
+      "disable-tls": true,
+      "secure-http": false
+    },
+    "require": {
+        "php": "~7.2.0"
+    }
+}
